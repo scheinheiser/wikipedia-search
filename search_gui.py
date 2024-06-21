@@ -57,7 +57,6 @@ class App(ctk.CTk):
                                          border_color='#7185a6',
                                          corner_radius=0)
 
-        self.text = ctk.StringVar()
         self.text_bar = ctk.CTkEntry(self.search_frame,
                                      placeholder_text='Insert text here',
                                      placeholder_text_color='#1a3452',

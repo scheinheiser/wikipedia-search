@@ -7,5 +7,7 @@ It uses requests and bs4 in combination in order to scrape the page, and customt
 You need customtkinter, beautiful soup 4 and the requests library.
 Install these with:
 > pip install customtkinter
+
 > pip install bs4
+
 > pip install requests

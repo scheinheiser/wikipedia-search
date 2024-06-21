@@ -11,3 +11,5 @@ Install these with:
 > pip install bs4
 
 > pip install requests
+
+Simply install these, download both of the files and run search_gui.py.
